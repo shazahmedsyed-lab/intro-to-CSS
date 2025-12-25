@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautify</title>
+    <!-- <style>
+        h2{ 
+            color : beige;
+        }
+
+        body{
+            background: black;
+        }
+    </style> -->
+    <link rel = "stylesheet" href = ./style.css>
+</head>
+<body>
+    <div style = "text-align: center;">
+    <a href = "https://www.netflix.com/unsupported" target="_main"><img src = "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/08/netflix-logo.jpeg" alt ="netflix-logo" width = 250></a>
+</div>
+    <!-- <h1 style = 'color :red'>NETFLIX</h1> -->
+    <hr>
+    <big><p>Please Select your City</p></big>
+<label for="city">city</label>
+    <select name = "City" id ="City">
+        <option value ="Select">Select</option>
+        <option value = "Hyd">Hyd</option>
+        <option value = "Del">Del</option>
+        <option value = "Pune">Pune</option>
+        <option value = "Chennai">Chennai</option>
+     </select>
+<hr>
+     <form action = "URL" method = "post">
+        <big><p>Enter your Username</p></big>
+        <input type = "username" name = "Username" placeholder="username">
+        <br><br>
+        <big><p>Enter your Password</p></big>
+        <input type = "password" name = "password" placeholder="password">
+        <br><br>
+        <input type = "submit" name = "submit">
+     </form>
+     <br>
+     <textarea name = "Feedback" id = "Feedback" placeholder="Please enter your Feedback"></textarea>
+     <hr>
+
+     <h3 id ="genre">Enter your favourite Genre</h3>
+
+     <input type = "text" name = "genre" placeholder="Here!">
+     <button>Next</button>
+     <hr>
+     <big><p>Top watched Shows</p></big>
+     <ol class = "Para">
+        <li>Stranger Things</li>
+        <li>Money Heist</li>
+        <li>Game Of Thrones</li>
+        <li>F.R.I.E.N.D.S</li>
+        <li>Dexter</li>
+     </ol>
+     <hr>
+
+     <p class = "Para">Statistics Of Shows</p>
+     <table class = "Latter">
+        <thead>
+            <tr>
+                <th>Show</th>
+                <th>Watched Hours</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Stranger Things</td>
+                <td>500</td>
+            </tr>
+            <tr>
+                <td>Game of Thrones</td>
+                <td>1000</td>
+            </tr>
+            <tr>
+                <td>F.R.I.E.N.D.S</td>
+                <td>499</td>
+            </tr>
+            <tr>
+                <td>Dexter</td>
+                <td>800</td>
+            </tr>
+        </tbody>
+     </table>
+     <hr>
+</body>
+</html>
