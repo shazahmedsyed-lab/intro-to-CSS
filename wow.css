@@ -1,0 +1,13 @@
+#navbar{
+    background-color: #0f1111;
+    height : 60px;
+    width : 100%;
+    color :  #ff9900;
+    font-size: 25px;
+    padding: 1%;
+
+}
+
+*{
+    background-color: #232F3E;
+}
