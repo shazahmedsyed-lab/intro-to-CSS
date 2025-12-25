@@ -11,5 +11,6 @@
 <li>font size, font-family, font-weight and text decorations</li>
 <li>...</li>
 <li>box model : height,width,padding and margin</li>
-<li>Selectors</li>
+<li>Learnt to build a frontend interface of a website</li>
+<li>Display : block and inline tags</li>
 </ol>
