@@ -3,7 +3,13 @@ h2{
 }
 
 body{
-    background-color: rgb(25, 24, 24);
+    background-color: rgb(20, 19, 19);
+}
+
+#mainlogo{
+    text-align: center;
+    margin:0; 
+    padding:0;
 }
 
 select{
@@ -15,30 +21,30 @@ select{
 }
 
 p{
-    color :aliceblue;
-    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color :darkgray;
+    font-family: Arial, Helvetica, sans-serif ;
 }
 
 
 #genre{
-    color : rgb(176, 54, 54);
+    color : darkgray;
 }
 
 button {
-    color :rgb(168, 176, 54);
-    background-color: brown;
+    color :black;
+    background-color: silver;
 }
 
 .Para{
     color : white;
     font-size:larger;
-    text-decoration: pink dashed underline;
-    font-weight: bolder;
+    text-decoration: white dashed underline;
+    font-weight: lighter;
    
 }
 
 .Latter{
-    color : rgb(201, 70, 70);
+    color :bisque;
     text-align: center;
     font-size: larger;
 }

@@ -7,9 +7,9 @@
 <ol>
 <li>Selectors, style tag and inline style</li>
 <li>linking style sheet,ids and classes</li>
-<li>colors and body and background colors</li>
+<li>colors and body and background colors,line-height and text-transform</li>
 <li>font size, font-family, font-weight and text decorations</li>
 <li>...</li>
-<li>Selectors</li>
+<li>box model : height,width,padding and margin</li>
 <li>Selectors</li>
 </ol>
