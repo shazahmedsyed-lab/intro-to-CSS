@@ -3,7 +3,7 @@ h2{
 }
 
 body{
-    background-color: black;
+    background-color: rgb(25, 24, 24);
 }
 
 select{
@@ -43,3 +43,7 @@ button {
     font-size: larger;
 }
 
+#ShowLink{
+    color:rgb(249, 101, 101);
+    text-decoration: none;
+}
