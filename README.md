@@ -9,8 +9,8 @@
 <li>linking style sheet,ids and classes</li>
 <li>colors and body and background colors,line-height and text-transform</li>
 <li>font size, font-family, font-weight and text decorations</li>
-<li>...</li>
 <li>box model : height,width,padding and margin</li>
 <li>Learnt to build a frontend interface of a website</li>
-<li>Display : block and inline tags</li>
+<li>Display,visibility : block and inline tags</li>
+<li>...</li>
 </ol>
