@@ -5,7 +5,9 @@
     color :  #ff9900;
     font-size: 25px;
     padding: 1%;
-
+    position: absolute;
+    top: 0;
+    left: 0px;
 }
 
 *{
@@ -24,5 +26,5 @@ pre{
 }
 
 .content{
-    height: 500px;
+    height: 900px;
 }

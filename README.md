@@ -12,5 +12,5 @@
 <li>box model : height,width,padding and margin</li>
 <li>Learnt to build a frontend interface of a website</li>
 <li>Display,visibility : block and inline tags</li>
-<li>...</li>
+<li>position : fixed,static,relative,sticky,absolute,z index</li>
 </ol>

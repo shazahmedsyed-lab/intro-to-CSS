@@ -4,6 +4,8 @@ h2{
 
 body{
     background-color: rgb(20, 19, 19);
+    background-image: url("https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/netflix-logo-with-some-netflix-shows-in-the-background-1.jpg");
+    background-size:contain;
 }
 
 #mainlogo{
