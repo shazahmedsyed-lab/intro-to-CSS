@@ -14,4 +14,5 @@
 <li>flexbox: flex properties : direction , justify-content(start,end,center,soacearound,spacebetween)</li>
 <li>flexproperties 2 : align-items, align-content</li>
 <li>Media Query,hover,transition</li>
+<li>Finally made a project on a replica of amazon homepage</li>
 </ol>
